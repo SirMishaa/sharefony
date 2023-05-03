@@ -26,3 +26,10 @@ ide-helper: ## Make ide-helper files
 
 test:
 	./vendor/bin/sail artisan test
+
+format:
+	./vendor/bin/sail composer format
+
+lint:
+	./vendor/bin/sail composer lint
+
