@@ -8,8 +8,9 @@
             <h2 class="sm:text-8xl text-6xl font-bold leading-tight tracking-tight text-white text-center">
                 Share <span class="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">file easily</span>
             </h2>
-            <p class="mt-16 text-center text-white text-xl sm:text-2xl">
-                Share your files seamlessly, confidentially and securely via our desktop app, mobile app and even our
+            <p class="mt-12 text-center text-white text-xl sm:text-2xl">
+                Share your files seamlessly, confidentially and securely on multiples storage providers via our desktop
+                app, mobile app and even our
                 cross-platform compatible CLI. Perfect for sharing your logs.
             </p>
 
