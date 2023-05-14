@@ -13,6 +13,9 @@ seed:
 up:
 	./vendor/bin/sail up
 
+vite:
+	./vendor/bin/sail yarn run dev
+
 tinker:
 	./vendor/bin/sail artisan tinker
 
