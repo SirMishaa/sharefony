@@ -29,7 +29,9 @@ test:
 
 format:
 	./vendor/bin/sail composer format
+	./vendor/bin/sail yarn run format
 
 lint:
 	./vendor/bin/sail composer lint
+	./vendor/bin/sail yarn run lint
 
