@@ -8,7 +8,7 @@ export default defineConfig({
         }
     },
     plugins: [
-        // @ts-expect-error
+        // @ts-expect-error "Cannot find default on 'laravel-vite-plugin'"
         laravel.default({
             input: ['resources/css/tailwind.css', 'resources/js/app.js'],
             refresh: true
